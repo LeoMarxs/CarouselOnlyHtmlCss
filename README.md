@@ -1,1 +1,1 @@
-# CarouselOnlyHtmlCss
+# Carousel with HTML and CSS only 🎠
